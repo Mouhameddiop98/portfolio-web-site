@@ -2,8 +2,8 @@
   var typed = new Typed(".type", {
     strings: [
       "",
-      "Full Stak Web Devoloper",
-      "Php Laravel Devloper",
+      "Devoloper Big Data",
+      "Data Scientist Junior",
       "Custom web developer",
       "Freelancer",
     ],
